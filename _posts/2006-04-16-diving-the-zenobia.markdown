@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Diving the Zenobia"
 date:   2006-04-16 00:00:00 +0000
 categories: diving
 ---
