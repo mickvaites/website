@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Latex Working"
+title:  Latex Working
 date:   2023-01-08 20:00:00 +0000
 categories: diary
 ---
