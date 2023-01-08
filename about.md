@@ -17,3 +17,4 @@ failure is still a result. I very soon switched to maths, and if that wasn’t e
 
 <p>I now have the research bug, and am currently enrolling on a part time PhD (April 2023), with the Swansea University.</p>
 
+[mickvaites@gmail.com](mickvaites@gmail.com)

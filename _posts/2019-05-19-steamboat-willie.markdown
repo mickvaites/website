@@ -7,7 +7,7 @@ categories: diary
 
 <p>Having finally built LEGO batman cave, the release of LEGO Ideas Steamboat Willie, meant I need to build this too. </p>
 
-<p><center><img src="/assets/images/steamboat.jpeg" width="640" height="360" alt=""></center></p>
+<p><center><img src="/images/steamboat.jpeg" width="640" height="360" alt=""></center></p>
 
 
 <p>And just in case you need a link to the original cartoon &#8230; </p>
