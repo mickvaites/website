@@ -8,11 +8,15 @@ categories: maths
 
 Very similar to Zipf, which focused on the relationship of letters and words. Benford's Law looks at the frequency of numbers starting with a particular number.
 
-This is an example of inline \\(\LaTeX\\).
+<p>
+$$\left(\LARGE{AB}\right)$$
+</p>
 
-The following is Stokes' theorem in a
-`displaymath` environment: \$$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega\$$
 
-
-$$H_1(X) = \Z $$ 
+<p>
+$$\begin{pmatrix}
+   a & b \\
+   c & d
+\end{pmatrix}$$
+</p>
 
