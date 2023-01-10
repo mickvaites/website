@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Latex Working
+title:  Latex/Katex is Working
 date:   2023-01-08 20:00:00 +0000
 categories: diary
 ---
@@ -12,13 +12,19 @@ Checkout <a href="https://katex.org/docs/autorender.html">Adding Auto-render Ext
 Examples:
 
 <p>
-$$\left(\LARGE{AB}\right)$$
+Shannon Entropy : $$H=-\sum_{x\epsilon X}^{} p(x)\log_{2}p(x))$$
 </p>
 
 
 <p>
+Benfords's Law : $$P(n)=\log_{10}(n+1)-log_{10}(n)$$
+</p>
+
+</p>
 $$\begin{pmatrix}
    a & b \\
    c & d
 \end{pmatrix}$$
 </p>
+
+<p>An excellent Latex Editor <a href="https://latex.codecogs.com/eqneditor/editor.php">Latex CodeCogs</a></p>

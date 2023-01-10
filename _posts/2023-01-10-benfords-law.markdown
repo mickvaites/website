@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Benford's Law"
-date:   2023-01-08 13:03:00 +0000
+date:   2023-01-10 13:03:00 +0000
 categories: maths
 ---
 
