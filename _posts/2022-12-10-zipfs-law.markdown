@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Zipf's Law"
+date:   2022-12-10 10:00:00 +0000
+categories: maths
+---
+
+Zipf's Law, named after George Zipf, states that the frequency of any word is inversley proportional to its rank.
+
+$$P_{n}\sim \frac{1}{n^{a}}$$
+
+For example; the word 'the' accounts for almost 7%, whereas 'of' occurs in 3.5%.
+
