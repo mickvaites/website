@@ -9,5 +9,7 @@ Zipf's Law, named after George Zipf, states that the frequency of any word is in
 
 $$P_{n}\sim \frac{1}{n^{a}}$$
 
-For example; the word 'the' accounts for almost 7%, whereas 'of' occurs in 3.5%.
+Zipf's law was demonstrated using the <a h ref="http://korpus.uib.no/icame/manuals/BROWN/INDEX.HTM">Brown Corpus</a>, a collection of 500 text samples across various topics. Where it can be shown that the word 'the' accounts for approximately 7%, and the words 'of' and 'to' occur in approximate 3%.
+
+
 
