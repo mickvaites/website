@@ -5,10 +5,14 @@ date:   2023-03-05 09:35:00 +0000
 categories: books
 ---
 
-<ol>
+<p>
+My list of books, those I've read, reading and those I'm interested in reading. The current highlights being a focus on thermodynamics and entropy.
+</p>
+<p></p>
 
+<ol>
 <li>
-<a href="https://read.amazon.co.uk/kp/embed?asin=B00EANTTVY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_71MZ91V8HR5GW66TSTDC">Entropy - God's Dice Game</a>
+<a href="https://read.amazon.co.uk/kp/embed?asin=B00EANTTVY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_71MZ91V8HR5GW66TSTDC">Entropy - God's Dice Game</a><br><b>[READ 04/03/23]</b>
 </li>
 
 <li>
