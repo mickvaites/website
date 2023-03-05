@@ -37,7 +37,7 @@ My list of books, those I've read, reading and those I'm interested in reading. 
 </li>
 
 <li>
-<a href="https://amzn.eu/d/gMBQMjR>One up on Wall Street</a>&nbsp;[READ 30/06/22]
+<a href="https://amzn.eu/d/gMBQMjR">One up on Wall Street</a>&nbsp;[READ 30/06/22]
 </li>
 
 </ol>
