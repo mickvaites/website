@@ -12,7 +12,11 @@ My list of books, those I've read, reading and those I'm interested in reading. 
 
 <ol>
 <li>
-<a href="https://read.amazon.co.uk/kp/embed?asin=B00EANTTVY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_71MZ91V8HR5GW66TSTDC">Entropy - God's Dice Game</a><br><b>[READ 04/03/23]</b>
+<a href="https://read.amazon.co.uk/kp/embed?asin=B00EANTTVY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_71MZ91V8HR5GW66TSTDC">Entropy - God's Dice Game</a>&nbsp;<b>[READ 27/02/23]</b>
+</li>
+
+<li>
+<a href="https://read.amazon.co.uk/kp/embed?asin=B09T2PYC4H&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_6N32DCGMNC6NQKMJ09VF">Existential Physics</a>&nbsp;<b>[Reading 05/03/23]</b>
 </li>
 
 <li>
